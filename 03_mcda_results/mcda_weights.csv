@@ -1,0 +1,7 @@
+criterion_code,criterion_name,equal_weight,entropy_weight,entropy_value,entropy_divergence,critic_weight,critic_std,critic_information
+C1,Solar resource,0.166667,0.13502,0.986755,0.013245,0.14363,0.1839,0.921795
+C2,Water reliability,0.166667,0.286258,0.971919,0.028081,0.206871,0.269133,1.32766
+C3,Stable water ratio,0.166667,0.214641,0.978945,0.021055,0.190369,0.256671,1.221756
+C4,Terrain slope,0.166667,0.126394,0.987601,0.012399,0.196257,0.203938,1.259545
+C5,Protected-area conflict,0.166667,0.001002,0.999902,9.8e-05,0.022334,0.026205,0.143337
+C6,Power infrastructure proximity,0.166667,0.236686,0.976782,0.023218,0.240539,0.286881,1.543735

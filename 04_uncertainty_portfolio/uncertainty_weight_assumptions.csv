@@ -1,0 +1,7 @@
+criterion,center_weight,dirichlet_alpha,equal_weight,entropy_weight,critic_weight
+Solar resource,0.148439,5.343804,0.166667,0.13502,0.14363
+Water reliability,0.219932,7.917539,0.166667,0.286258,0.206871
+Stable water ratio,0.190559,6.860119,0.166667,0.214641,0.190369
+Terrain slope,0.163106,5.871813,0.166667,0.126394,0.196257
+Protected-area conflict,0.063334,2.280034,0.166667,0.001002,0.022334
+Power infrastructure proximity,0.21463,7.726691,0.166667,0.236686,0.240539

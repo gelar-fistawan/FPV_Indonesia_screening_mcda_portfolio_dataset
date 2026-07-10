@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata from Zenodo."
+title: "FPV Indonesia screening, MCDA, and portfolio planning dataset"
+version: "1.0.0"
+date-released: "2026-07-10"
+authors:
+  - family-names: "[TODO: family name]"
+    given-names: "[TODO: given name]"
+abstract: "Processed data, analysis outputs, JPEG figures, tables, and reproducibility materials supporting an uncertainty-aware screening and portfolio planning study for floating photovoltaic deployment on Indonesian reservoirs and inland water bodies."
+keywords:
+  - floating photovoltaic
+  - Indonesia
+  - MCDA
+  - TOPSIS
+  - rank acceptability
+  - portfolio planning
+license: "MIT"
+repository-code: "https://github.com/[TODO]/[TODO]"
+doi: "10.5281/zenodo.[TODO]"

@@ -1,0 +1,7 @@
+source,role,citation_status,notes
+GRanD,Reservoir inventory backbone,External dataset; cite official source,Used for managed-reservoir backbone
+HydroLAKES,Inland water-body inventory expansion,External dataset; cite official source,Used for expanded Indonesian candidate water bodies
+JRC Global Surface Water,Stable-water screening,External dataset; cite official source,Occurrence and seasonality water persistence evidence
+ERA5-Land,Solar/climate proxy,External dataset; cite official source,Screening-level solar-resource proxy
+WDPA,Protected-area overlap flag,External dataset; cite official source,Screening conflict flag only
+WRI GPPD,Power infrastructure proxy,External dataset; cite official source,Power-plant proximity proxy only
